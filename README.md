@@ -1,6 +1,3 @@
-**Example of TDD Process in FizzBuzz**    
-Write a short program that prints each number from 1 to 100 on a new line.  
-For each multiple of 3, print "Fizz" instead of the number.  
-For each multiple of 5, print "Buzz" instead of the number.  
-For numbers that are multiples of both 3 and 5, print "FizzBuzz" instead of the number.  
+**FizzBuzz:** A simple program that prints numbers from 1 to N, replacing multiples of 3 with "Fizz," multiples of 5 with "Buzz," and multiples of both with "FizzBuzz."  
+**TennisGame:** A program to simulate a tennis scoring system, handling player names, scores, deuce, advantage, and declaring a winner based on tennis rules.
 
